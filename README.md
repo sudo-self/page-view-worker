@@ -3,7 +3,7 @@
 ### <code>npm wrangler init</code><br>
 ### wrangler.toml<br>
 [vars]<br>
-UPSTASH_REDIS_REST_URL<br>
-UPSTASH_REDIS_REST_TOKEN<br>
+UPSTASH_REDIS_REST_URL=&nbsp;<a href="https://upstash.com">upstash.com<br>
+UPSTASH_REDIS_REST_TOKEN&nbsp;<a href="https://upstash.com">upstash.com<br>
 ### <code>npm run deploy</code><br>
 
