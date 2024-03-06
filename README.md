@@ -5,4 +5,5 @@
 [vars]<br>
 UPSTASH_REDIS_REST_URL=<br>
 UPSTASH_REDIS_REST_TOKEN=<br>
+### <code>npm run deploy</code>
 
