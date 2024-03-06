@@ -1,0 +1,7 @@
+name = "count"
+main = "src/index.ts"
+compatibility_date = "2024-03-04"
+
+[vars]
+UPSTASH_REDIS_REST_URL="your @upstash/redis rest URL"
+UPSTASH_REDIS_REST_TOKEN="your DB token"
